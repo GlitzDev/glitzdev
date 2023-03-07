@@ -1,12 +1,11 @@
 ## _Olá, seja bem vindo(a) ao meu github! 👋_
 
 ### 💬-Estou a procura do meu primeiro emprego como dev front-end!!!
-### 💬-Me apaixonei pelo desenvolvimento front-end e pretendo atuar nessa área 😎❤️‍🔥
-### 💬-Logo virão alguns projetinhos 💥💯💥
+<p>Venho buscando me desenvolver na area de desenvolvedor front-end, tenho alguma experiencia com HTML5, CSS3 e JAVSCRIPT.<br>
+Estou estudando os mesmos juntamente com REACT...e pretendo me aprimorar a cada dia.</p>
 
   ![GlitzDev GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitzDev&show_icons=true&theme=dark)
   
-
 ## _Tecnologias que estou aprendendo e que uso no meu dia a dia 😁_
 
 <div style="diplay: inline_block" align="center"><br>
@@ -18,6 +17,10 @@
   <img aling="center" height="50px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
   
 </div>
+
+## _Meus projetos 💻💡_
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GlitzDev&repo=mywebsite&theme=dark)](https://github.com/GlitzDev/github-readme-stats)
 
 ## _Formas de contato 👽 ✌️_
 
