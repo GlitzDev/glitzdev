@@ -28,6 +28,6 @@ Estou estudando os mesmos juntamente com REACT...e pretendo me aprimorar a cada 
   
   <a href="mailto:glitz.dev22@gmail.com"><img aling="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
   <a href="https://www.instagram.com/gut_sdn/"  target="_blank"><img aling="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
-  <a href="https://www.linkedin.com/in/gustavo-sousa-5279681b7/" target="_blank"><img aling="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"/></a>
+  <a href="https://www.linkedin.com/in/gustavo-sousa-5279681b7/" target="_blank"><img aling="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 
 </div>
