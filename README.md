@@ -20,7 +20,7 @@ Estou estudando os mesmos juntamente com REACT...e pretendo me aprimorar a cada 
 
 ## _Meus projetos 💻💡_
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=meu-site&theme=dark)](https://github.com/meu-site/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=meu-site&theme=dark)](https://github.com/glitzdev/meu-site)
 
 ## _Formas de contato 👽 ✌️_
 
