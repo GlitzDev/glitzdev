@@ -32,4 +32,4 @@ Estou estudando os mesmos juntamente com REACT...e pretendo me aprimorar a cada 
 
 </div>
 
-![snake gif](https://github.com/GlitzDev/GlitzDev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/GlitzDev/glitzdev/blob/output/github-contribution-grid-snake.svg)
