@@ -31,5 +31,3 @@ Estou estudando os mesmos juntamente com REACT...e pretendo me aprimorar a cada 
   <a href="https://www.linkedin.com/in/gustavo-sousa-5279681b7/" target="_blank"><img aling="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 
 </div>
-
-![snake gif](https://github.com/GlitzDev/glitzdev/blob/output/github-contribution-grid-snake.svg)
