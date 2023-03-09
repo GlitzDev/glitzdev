@@ -21,6 +21,8 @@ Estou estudando os mesmos juntamente com REACT...e pretendo me aprimorar a cada 
 ## _Meus projetos 💻💡_
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=meu-site&theme=dark)](https://github.com/glitzdev/meu-site)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=projeto-frontendmentor&theme=dark)](https://github.com/glitzdev/projeto-frontendmentor)
 
 ## _Formas de contato 👽 ✌️_
 
