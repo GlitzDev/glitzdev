@@ -22,7 +22,7 @@ Estou estudando os mesmos juntamente com REACT...e pretendo me aprimorar a cada 
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=Projeto-MeuSite&theme=dark)](https://github.com/glitzdev/Projeto-MeuSite)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=projeto-frontendmentor&theme=dark)](https://github.com/glitzdev/projeto-frontendmentor)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=Projeto-Qrcode&theme=dark)](https://github.com/glitzdev/Projeto-Qrcode)
 
 ## _Formas de contato 👽 ✌️_
 
