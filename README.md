@@ -1,12 +1,13 @@
-## _Olá, seja bem vindo(a) ao meu github! 👋_
+>## _Olá, seja bem vindo(a) ao meu github! 👋_
 
 ### 💬-Estou a procura do meu primeiro emprego como dev front-end!!!
 <p>Venho buscando me desenvolver na area de desenvolvedor front-end, tenho alguma experiencia com HTML5, CSS3 e JAVSCRIPT.<br>
 Estou estudando os mesmos juntamente com REACT...e pretendo me aprimorar a cada dia.</p>
 
-  ![GlitzDev GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitzDev&show_icons=true&theme=dark)
+  ![GlitzDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlitzDev&show_icons=false&theme=dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitzDev&layout=compact&theme=dark)](https://github.com/GlitzDev)
   
-## _Tecnologias que estou aprendendo e que uso no meu dia a dia 😁_
+>## _Tecnologias que estou aprendendo e que uso no meu dia a dia 😁_
 
 <div style="diplay: inline_block" align="center"><br>
   
@@ -18,13 +19,12 @@ Estou estudando os mesmos juntamente com REACT...e pretendo me aprimorar a cada 
   
 </div>
 
-## _Meus projetos 💻💡_
+>## _Meus projetos 💻💡_
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=Projeto-MeuSite&theme=dark)](https://github.com/glitzdev/Projeto-MeuSite)
-  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=Projeto-Qrcode&theme=dark)](https://github.com/glitzdev/Projeto-Qrcode)
 
-## _Formas de contato 👽 ✌️_
+>## _Formas de contato 👽 ✌️_
 
 <div style="diplay: inline_block" align="center"><br>
   
