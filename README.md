@@ -4,11 +4,11 @@
 
 >#### _Sobre mim_ 
 
-🌱 - Buscando o primeiro emprego na área.
+🌱 - Buscando emprego como desenvolvedor front-end.
 
-☕ - Apendendo React e JavaScrip.
+☕ - Apendendo React e JavaScript.
 
-❤️‍🔥 - Sou um amate da programação.
+❤️‍🔥 - Sou um amante da programação.
 
 💪 - Se for impossivel... me da 5 minutos.
 
