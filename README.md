@@ -18,7 +18,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlitzDev&layout=compact&theme=dark)](https://github.com/GlitzDev)
   
 
-### _Tecnologias que estou aprendendo e que uso no meu dia a dia 😁_
+### _Minhas habilidades 😁_
 
 ---
 
