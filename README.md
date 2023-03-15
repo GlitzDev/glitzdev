@@ -38,6 +38,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=projeto-meu-site&theme=dark)](https://github.com/glitzdev/projeto-meusite)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=projeto-qr-code&theme=dark)](https://github.com/glitzdev/projeto-qrcode)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=projeto-the-last-of-us&theme=dark)](https://github.com/glitzdev/projeto-the-last-of-us)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=projeto-seus-resultados&theme=dark)](https://github.com/glitzdev/projeto-seus-resultados)
  
 
 ### _Formas de contato 👽 ✌️_
