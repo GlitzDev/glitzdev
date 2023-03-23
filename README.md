@@ -36,11 +36,11 @@
 ---
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=projeto-meu-site&theme=dark)](https://github.com/glitzdev/projeto-meusite)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=projeto-landing-page&theme=dark)](https://github.com/glitzdev/projeto-landing-page)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=projeto-qr-code&theme=dark)](https://github.com/glitzdev/projeto-qrcode)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=projeto-the-last-of-us&theme=dark)](https://github.com/glitzdev/projeto-the-last-of-us)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=projeto-seus-resultados&theme=dark)](https://github.com/glitzdev/projeto-seus-resultados)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glitzdev&repo=projeto-3colunas&theme=dark)](https://github.com/glitzdev/projeto-3colunas)
- 
 
 ### _Formas de contato 👽 ✌️_
 
